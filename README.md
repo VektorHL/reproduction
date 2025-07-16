@@ -18,3 +18,4 @@ npm install
 
 ## Reproduction notes
 Components with working and not working hints are inside `/sre/components` in `working` and `NOT-working` folders respectively.
+Run `npm install` and reload window.
